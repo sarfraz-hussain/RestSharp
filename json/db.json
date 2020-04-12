@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "RestSharp",
+      "author": "sarfraz"
+    },
+    {
+      "id": 2,
+      "title": "SCE",
+      "author": "Meer"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 30,
+      "title": "film",
+      "author": "Rao"
+    },
+    {
+      "id": 31,
+      "title": "film",
+      "author": "Rao"
+    },
+    {
+      "id": 35,
+      "title": "film",
+      "author": "Rao"
+    },
+    {
+      "id": 36,
+      "title": "film",
+      "author": "Rao"
+    },
+    {
+      "id": 38,
+      "title": "film",
+      "author": "Rao"
+    },
+    {
+      "id": 39,
+      "title": "film",
+      "author": "Rao"
+    }
+  ],
+  "profile": {
+    "Name": "Ali"
+  },
+  "address": {
+    "Temporary": {
+      "HouseNo": 239,
+      "Street": 123,
+      "City": "NewYork",
+      "Country": "USA"
+    },
+    "Permanent": {
+      "HouseNo": 209,
+      "Street": 234,
+      "City": "Melbuorn",
+      "Country": "AUS"
+    }
+  }
+}
